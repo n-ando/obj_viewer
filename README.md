@@ -1,6 +1,8 @@
 # obj_viewer
 OBJ file viewer
 
+This command visualizes OBJ file with texture.
+
 ## Requirement
 
 - PCL (point cloud library)

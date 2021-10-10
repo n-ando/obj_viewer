@@ -1,0 +1,21 @@
+# Textures packed with a simple packer
+newmtl material_0
+map_Kd mesh_texture_packed_full.png
+newmtl material_1
+map_Kd mesh_texture_packed_full.png
+newmtl material_2
+map_Kd mesh_texture_packed_full.png
+newmtl material_3
+map_Kd mesh_texture_packed_full.png
+newmtl material_4
+map_Kd mesh_texture_packed_full.png
+newmtl material_5
+map_Kd mesh_texture_packed_full.png
+newmtl material_6
+map_Kd mesh_texture_packed_full.png
+newmtl material_7
+map_Kd mesh_texture_packed_full.png
+newmtl material_8
+map_Kd mesh_texture_packed_full.png
+newmtl material_9
+map_Kd mesh_texture_packed_full.png
